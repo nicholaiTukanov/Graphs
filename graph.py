@@ -92,7 +92,7 @@ class Graph:
 
         self.print_tree()
 
-    # Breadth first search
+    # Depth first search
     def DFS(self, s):
 
         # Set start vertex to true
